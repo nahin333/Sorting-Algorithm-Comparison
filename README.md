@@ -13,9 +13,7 @@
 •	This will launch the Sorting Algorithm Comparison Tool GUI.
 4. Using the GUI
 •	Once the GUI is launched, you will see a window titled "Sorting Algorithm Comparison".
-•	The window contains the following elements:
-
-  a. Algorithm Selection Dropdown: This dropdown allows you to select one or more sorting algorithms to compare. Initially, it contains a single dropdown with options for different sorting algorithms.
+•	The window contains the following elements: a. Algorithm Selection Dropdown: This dropdown allows you to select one or more sorting algorithms to compare. Initially, it contains a single dropdown with options for different sorting algorithms.
   b. Add Algorithm Button: Clicking this button adds another dropdown to select additional sorting algorithms for comparison.
   c.	Input Size Entry: Here, you can enter the size of the input data that will be used for sorting. Enter a numerical value representing the size of the input data.
   d.	Run Algorithm(s) Button: Clicking this button will execute the selected sorting algorithms with the specified input size and display the runtime results.
