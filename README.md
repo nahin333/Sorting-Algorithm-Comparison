@@ -15,18 +15,18 @@
 •	Once the GUI is launched, you will see a window titled "Sorting Algorithm Comparison".
 •	The window contains the following elements:
 
-a.	Algorithm Selection Dropdown: This dropdown allows you to select one or more sorting algorithms to compare. Initially, it contains a single dropdown with options for different sorting algorithms.
-b.	Add Algorithm Button: Clicking this button adds another dropdown to select additional sorting algorithms for comparison.
-c.	Input Size Entry: Here, you can enter the size of the input data that will be used for sorting. Enter a numerical value representing the size of the input data.
-d.	Run Algorithm(s) Button: Clicking this button will execute the selected sorting algorithms with the specified input size and display the runtime results.
-e.	Runtime Results Label: This label will display the runtime results for the selected algorithms. The runtime for each algorithm will be shown in seconds.
+  a. Algorithm Selection Dropdown: This dropdown allows you to select one or more sorting algorithms to compare. Initially, it contains a single dropdown with options for different sorting algorithms.
+  b. Add Algorithm Button: Clicking this button adds another dropdown to select additional sorting algorithms for comparison.
+  c.	Input Size Entry: Here, you can enter the size of the input data that will be used for sorting. Enter a numerical value representing the size of the input data.
+  d.	Run Algorithm(s) Button: Clicking this button will execute the selected sorting algorithms with the specified input size and display the runtime results.
+  e.	Runtime Results Label: This label will display the runtime results for the selected algorithms. The runtime for each algorithm will be shown in seconds.
 
 5. Comparing Algorithms
 •	Follow these steps to compare sorting algorithms:
-a.	Select one or more sorting algorithms from the dropdown(s) provided. You can choose from options like Merge Sort, Heap Sort, Quick Sort, etc.
-b.	Enter the desired input size into the "Input Size" entry field.
-c.	Click the "Run Algorithm(s)" button to execute the selected algorithms with the specified input size.
-d.	After execution, the runtime results for each selected algorithm will be displayed in the "Runtime Results" section.
+  a.	Select one or more sorting algorithms from the dropdown(s) provided. You can choose from options like Merge Sort, Heap Sort, Quick Sort, etc.
+  b.	Enter the desired input size into the "Input Size" entry field.
+  c.	Click the "Run Algorithm(s)" button to execute the selected algorithms with the specified input size.
+  d.	After execution, the runtime results for each selected algorithm will be displayed in the "Runtime Results" section.
 6. Adding More Algorithms
 If you want to compare additional sorting algorithms, click the "Add Algorithm" button. This will add another dropdown for selecting additional algorithms.
 7. Exiting the Application
