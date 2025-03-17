@@ -1,5 +1,5 @@
 # Sorting-Algorithm-Comparison 
-#USER MANUAL
+# USER MANUAL
 1. This user manual provides instructions for using the Sorting Algorithm Comparison Tool. This tool allows users to compare the runtime performance of various sorting algorithms using a graphical user interface (GUI).
 
 2. Getting Started
